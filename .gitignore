@@ -1,0 +1,9 @@
+# Ignore large data and model files
+DATA/LABELS/*.h5
+DATA/M71_SPECTRA/*.fits
+DATA/M71_SPECTRA/*.txt
+MODELS/*.ckpt
+DATA/CATALOGS/*.csv
+FIGURES/
+logs/
+M71/
