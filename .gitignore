@@ -3,6 +3,7 @@ DATA/LABELS/*.h5
 DATA/M71_SPECTRA/*.fits
 DATA/M71_SPECTRA/*.txt
 MODELS/*.ckpt
+MODELS/*.tar
 DATA/CATALOGS/*.csv
 FIGURES/
 logs/
